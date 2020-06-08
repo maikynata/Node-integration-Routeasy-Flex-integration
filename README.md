@@ -2,7 +2,7 @@
 This is a **project example** that provides an integration data between RoutEasy Service and the ERP FlexDB.
 
 ## Prerequisites
-* Node.js - [Download & Install Node.js](http://www.nodejs.org/download/) and the npm package manager. If you encounter any problems, you can also use this [GitHub Gist](https://gist.github.com/isaacs/579814) to install Node.js.
+* Node.js - [Download & Install Node.js](http://www.nodejs.org/download/) and the npm package manager.
 
 ## Quick Install
 The first thing you should do is install the Node.js dependencies. To learn more about the modules installed visit the NPM & Package.json section.
@@ -31,5 +31,6 @@ $ node index.js
 ## Wiki
 You can see step by step the routing process and how to use all RoutEasy's features in our [Wiki](https://github.com/RoutEasy/routeasy-node-project/wiki) (pt-BR).
 
-## Documentation
-All endpoints are available in the [docs](http://docs.routeasy.com.br) section of our website. Feel free to contact the author by email [william.kennedy@routeasy.com.br](mailto:william.kennedy@routeasy.com.br)
+## Documentation RoutEasy and FlexDB
+All endpoints are available in the [docs](http://docs.routeasy.com.br) section of RoutEasy website.
+All endpoints are available in the [docs](http://servicosflex.rpinfo.com.br:9000/v1.0/documentacao) section of FlexDB RP Services website.
