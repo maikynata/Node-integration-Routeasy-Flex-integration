@@ -1,6 +1,5 @@
-[![RoutEasy Logo](http://app.routeasy.com.br/lib/landing/img/routeasy-horizontal_180.png)](http://www.routeasy.com.br/)
-# RoutEasy Node.js Project v1.0.0
-This is a **project example** that provides an overview to our customers about how the routing process using our API is made.
+# RoutEasy x ERP FlexDB Node.js Project v1.0.0
+This is a **project example** that provides an integration data between RoutEasy Service and the ERP FlexDB.
 
 ## Prerequisites
 * Node.js - [Download & Install Node.js](http://www.nodejs.org/download/) and the npm package manager. If you encounter any problems, you can also use this [GitHub Gist](https://gist.github.com/isaacs/579814) to install Node.js.

@@ -1,0 +1,68 @@
+{
+    "name": "Roteirização Teste CD",
+    "deliveries": [
+      {
+        "code": "1092980",
+        "name": "Roberta Seabra Guimarães",
+        "invoice_number": "109016",
+        "order_number": "100008940",
+        "additional_info": "",
+        "additional_info_1": "",
+        "additional_info_2": "",
+        "service_time": 10,
+        "email": "robertalguimaraes@gmail.com",
+        "phone": "",
+        "address": {
+          "route": "Rua 56",
+          "street_number": "79",
+          "neighborhood": "Jardim Goiás",
+          "city": "Goiânia",
+          "state": "GO",
+          "postal_code": "74810240",
+          "country": "Brasil"
+        }
+      },
+      {
+        "code": "1092986",
+        "name": "Laura Curado",
+        "invoice_number": "109017",
+        "order_number": "100008948",
+        "additional_info": "",
+        "additional_info_1": "",
+        "additional_info_2": "",
+        "service_time": 10,
+        "email": "laura.mcurado@gmail.com",
+        "phone": "",
+        "address": {
+          "route": "Avenida dr José hermano",
+          "street_number": "303",
+          "neighborhood": "Jardim Vitória i",
+          "city": "Goiânia",
+          "state": "GO",
+          "postal_code": "74865089",
+          "country": "Brasil"
+        }
+      },
+      {
+        "code": "1092953",
+        "name": "nicoly brito",
+        "invoice_number": "109018",
+        "order_number": "100008929",
+        "additional_info": "",
+        "additional_info_1": "",
+        "additional_info_2": "",
+        "service_time": 10,
+        "email": "nicolyandrada@icloud.com",
+        "phone": "",
+        "address": {
+          "route": "Rua Paritins",
+          "street_number": "0",
+          "neighborhood": "Parque Amazônia",
+          "city": "Goiânia",
+          "state": "GO",
+          "postal_code": "74840670",
+          "country": "Brasil"
+        }
+      }
+    ]
+  }
