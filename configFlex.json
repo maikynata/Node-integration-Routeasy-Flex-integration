@@ -1,0 +1,8 @@
+{
+    "host": "http://servicosflex.rpinfo.com.br:9000",
+    "credentials":
+    {
+        "usuario": "100000",
+        "senha": "123456"
+    }
+}
