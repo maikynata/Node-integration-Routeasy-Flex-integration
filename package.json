@@ -1,22 +1,23 @@
 {
-  "name": "routeasy-node-project",
+  "name": "Routeasy-Flex-integration",
   "version": "1.0.0",
-  "description": "A simple Node.js project that uses RoutEasy's API.",
+  "description": "A simple Node.js project to integrate RoutEasy's API and FlexDB's RP Services.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "William Kennedy <william.kennedy@routeasy.com.br>",
+  "author": "Maiky Nata <maikynata25@gmail.com>",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/RoutEasy/routeasy-node-project"
+    "url": "https://github.com/maikynata/Routeasy-Flex-integration"
   },
   "bugs": {
-    "url": "https://github.com/RoutEasy/routeasy-node-project/issues"
+    "url": "https://github.com/maikynata/Routeasy-Flex-integration/issues"
   },
   "keywords": [
     "routeasy",
+    "flexdb",
     "node"
   ],
   "license": "MIT",
