@@ -20,6 +20,7 @@ To run this project you might have a RoutEasy account. Then you need to setup yo
     "password": "SUA_SENHA"
 }
 ```
+Setup the same, for the `configFlex.json` file, to login on FLexDB RpServices.
 
 ## Running Your Application
 After the install process is over, you'll be able to run the application. Just run node:
