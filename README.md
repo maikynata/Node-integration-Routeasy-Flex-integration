@@ -1,4 +1,4 @@
-# RoutEasy x ERP FlexDB Node.js Project v1.0.0
+# RoutEasy x ERP FlexDB Node.js Integration Project v1.0.0
 This is a **project example** that provides an integration data between RoutEasy Service and the ERP FlexDB.
 
 ## Prerequisites
