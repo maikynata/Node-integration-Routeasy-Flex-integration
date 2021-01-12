@@ -1,5 +1,5 @@
 {
-  "name": "Routeasy-Flex-integration",
+  "name": "Routeasy-Flex-Integration",
   "version": "1.0.0",
   "description": "A simple Node.js project to integrate RoutEasy's API and FlexDB's RP Services.",
   "main": "index.js",
